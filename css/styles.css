@@ -12026,6 +12026,7 @@ body{
   margin-bottom: 10px; /* Add some space between boxes */
   margin-right: auto;
   font-weight: bold;
+	cursor: pointer;
 }
 .pbox-link:hover {
   background-color: #ddd;
